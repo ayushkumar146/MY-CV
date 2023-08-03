@@ -650,7 +650,7 @@ transition: all 0.3s ease;
     height: 50px;
     padding: 0 50px;
 }
-@media(max-width:1599px){
+@media(max-width:1200px){
     .aside{
         left: -270px;
     }
