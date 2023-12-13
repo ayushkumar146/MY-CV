@@ -1,2 +1,2 @@
 # MY-CV
-link-- https://65069c5ea20b4e0b868ee60a--preeminent-tanuki-f061ea.netlify.app/
+link-- https://6579690a14fe616be8e830e6--tiny-cassata-9c6953.netlify.app/
